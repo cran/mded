@@ -1,0 +1,4 @@
+export(mded)
+
+S3method(print, mded)
+
