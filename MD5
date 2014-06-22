@@ -1,6 +1,7 @@
-d8a6bba186f42b2acbadd8a9c8a4cabd *DESCRIPTION
+76edd794dcf75f84b5e969e303fd8289 *DESCRIPTION
 ff1a3a4e6da1c9dea2a118124c1060fa *NAMESPACE
+7a6f07138bea1467d4afd2121aaf0683 *NEWS
 789faefc67be5b80359a1cdaaa018e2b *R/mded.R
 f41d6df329104d6264408321548afbe7 *R/print.mded.R
-47075cdba04b6666d7d6baa210e32bc2 *man/mded-package.Rd
+587154b746df4eda5b55f4b490a66e7e *man/mded-package.Rd
 4eabb0516fdee9287547a866f3ff3db7 *man/mded.Rd
