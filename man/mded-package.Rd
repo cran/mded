@@ -12,8 +12,6 @@ I would like to thank Professor Gregory L. Poe for his kindness.
 }
 \author{
 Hideo Aizaki
-
-Maintainer: Hideo Aizaki <azk-r@ec.hokudai.ac.jp>
 }
 \references{
 Poe GL, Giraud KL, Loomis JB (2005). Computational methods for measuring the difference of empirical distributions. \emph{American Journal of Agricultural Economics}, \bold{87}, 353--365.
